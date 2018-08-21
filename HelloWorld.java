@@ -2,8 +2,8 @@
  * Lab 0 - HelloWorld
  * This is our first lab and will print "Hello World!" to the console.
  *
- * @author Mr. Avis
- * @version 8.21.2018
+ * @author (your name)
+ * @version (date)
  */
 public class HelloWorld
 {
@@ -14,6 +14,6 @@ public class HelloWorld
      */
     public static void main( String[] args )
     {
-        System.out.println("Hello World!");
+
     }
 }
