@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/StratfordHS-APCS/LabName-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-APCS/LabName-username)
+[![Build Status](https://travis-ci.com/StratfordHS-CS2/lab-00-hello-world-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-CS2/lab-00-hello-world-username)
 
 # Lab 0 - Hello World
 
@@ -13,9 +13,9 @@
 6. Run your code and check the result.
 7. Run the jUnit tests.  Make sure your code passes all the tests.
 8. Run checkstyle on your code.  Make sure there are no errors.
-9. Edit the first line of the *Readme.md* file and replace "username" with your GitHub username.
-10. Commit your changes using GitHub Desktop.
-11. Push your changes to GitHub (sync).
+9. Commit your changes using GitHub Desktop.
+10. Push your changes to GitHub (sync).
+11. Edit the first line of the *Readme.md* file and replace both instances of "username" with your GitHub username.
 
 ## Grading
 A typical lab will be graded as follows, though each lab will have grading expectations in the Readme.md.
